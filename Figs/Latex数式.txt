@@ -1,0 +1,148 @@
+\[
+\gamma({\boldsymbol{x}})
+=\left\{
+\begin{array}{cc}
+1 & solid \,\, phase \\
+0 & otherwise
+\end{array}
+\right.
+\]
+
+\[
+ \Gamma(\boldsymbol{k})=\int \gamma(\boldsymbol{x})
+e^{i\boldsymbol{k}\cdot \boldsymbol{x}}d\boldsymbol{x}
+\]
+
+\[
+\boldsymbol{k}=2\pi(k_x,\, k_y)
+\]
+\[
+\left| \Gamma ( \boldsymbol{k}) \right|
+\]
+
+\begin{eqnarray}
+I_\varphi(2\theta) &=& \left| \sum_{i}e^{i\boldsymbol{k}\cdot\boldsymbol{r}_i}\right|
+\nonumber \\
+&\simeq&
+\left|
+\int\gamma(\boldsymbol{x})e^{i\boldsymbol{k}\cdot\boldsymbol{x}}d\boldsymbol{x}
+\right|
+=\left|
+\Gamma (\boldsymbol{x})
+\right|
+ \nonumber
+\end{eqnarray}
+
+\[
+I(2\theta)
+\]
+
+\[
+\gamma({\boldsymbol{x}})
+=\left\{
+\begin{array}{cc}
+1 & solid \,\, phase \\
+0 & otherwise
+\end{array}
+\right.
+\]
+
+\[
+ \Gamma(\boldsymbol{k})=\int \gamma(\boldsymbol{x})
+e^{i\boldsymbol{k}\cdot \boldsymbol{x}}d\boldsymbol{x}
+\]
+
+\[
+\boldsymbol{k}=2\pi(k_x,\, k_y)
+\]
+
+\[
+\left| \Gamma ( \boldsymbol{k}) \right|
+\]
+
+\begin{eqnarray}
+I_\varphi(2\theta) &=& \left| \sum_{i}e^{i\boldsymbol{k}\cdot\boldsymbol{r}_i}\right|
+\nonumber \\
+&\simeq&
+\left|
+\int\gamma(\boldsymbol{x})e^{i\boldsymbol{k}\cdot\boldsymbol{x}}d\boldsymbol{x}
+\right|
+=\left|
+\Gamma (\boldsymbol{x})
+\right|
+ \nonumber
+\end{eqnarray}
+\[
+I(2\theta)
+\]
+
+\[
+\gamma({\boldsymbol{x}})
+=\left\{
+\begin{array}{cc}
+1 & solid \,\, phase \\
+0 & otherwise
+\end{array}
+\right.
+\]
+
+\[
+ \Gamma(\boldsymbol{k})=\int \gamma(\boldsymbol{x})
+e^{i\boldsymbol{k}\cdot \boldsymbol{x}}d\boldsymbol{x}
+\]
+
+\[
+\boldsymbol{k}=2\pi(k_x,\, k_y)
+\]
+
+\[
+\left| \Gamma ( \boldsymbol{k}) \right|
+\]
+
+\begin{eqnarray}
+I_\varphi(2\theta) &=& \left| \sum_{i}e^{i\boldsymbol{k}\cdot\boldsymbol{r}_i}\right|
+\nonumber \\
+&\simeq&
+\left|
+\int\gamma(\boldsymbol{x})e^{i\boldsymbol{k}\cdot\boldsymbol{x}}d\boldsymbol{x}
+\right|
+=\left|
+\Gamma (\boldsymbol{x})
+\right|
+ \nonumber
+\end{eqnarray}
+\[
+I(2\theta)
+\]
+
+\[
+f_0(r)
+=\frac{g(r,\,r+\Delta r)}{2\pi r}
+=\sum_{i\neq j}\frac{U(r_{ij}-r;\Delta r)}{2\pi r}
+\]
+
+\frac{g(r,r+\Delta r}{2\pi r}
+
+\[
+g(r,\,r+\Delta r)
+=\sum_{i\neq j}
+U(r_{ij}-r;\Delta r)
+\]
+
+\[
+r_{ij}=\left|\boldsymbol{r}_i-\boldsymbol{r}_j\right|
+\]
+
+\[
+\hat{\boldsymbol{r}}_{ij}=\frac{\boldsymbol{r}_j-\boldsymbol{r}_i}{r_{ij}}
+\]
+
+\[
+f(r)=
+\sum_{i\neq j} \frac{U(r_{ij}-r;\, \Delta r)}{2\pi r}
+\left\{
+ (\boldsymbol{r}_i\cdot \boldsymbol{n}_i)
+ (\boldsymbol{r}_j\cdot \boldsymbol{n}_j)
+\right\}^2
+\]
+
