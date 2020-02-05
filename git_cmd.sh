@@ -5,6 +5,7 @@ git add *.tex
 git add README
 git add makefile
 git add git_cmd.sh
+git add cmp_pdf.sh
 
 git commit
 
